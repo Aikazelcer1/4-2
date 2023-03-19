@@ -173,7 +173,6 @@ class Channel:
 
 class Video:
 
-
     def __init__(self, video_id=None, video_json=None) -> None:
 
         if video_id is not None:
